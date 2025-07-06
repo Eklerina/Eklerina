@@ -1,8 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="[https://7037d478852af21357f038fac2d2e9f6.gif](https://github.com/Eklerina/Eklerina/blob/81ed50726cb7badf0c347507867bf462fe498ea4/7037d478852af21357f038fac2d2e9f6.gif)"  />
-</div>
+  <![печатание](https://github.com/Eklerina/Eklerina/blob/81ed50726cb7badf0c347507867bf462fe498ea4/7037d478852af21357f038fac2d2e9f6.gif?raw=true)
+
 
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Екатерина
 =================================================================================================================================
