@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="7037d478852af21357f038fac2d2e9f6.gif"/>
+  <img height="300" width="600" src="7037d478852af21357f038fac2d2e9f6.gif"/>
 </div>
 
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Екатерина
