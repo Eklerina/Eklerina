@@ -1,8 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <![печатание](https://github.com/Eklerina/Eklerina/blob/81ed50726cb7badf0c347507867bf462fe498ea4/7037d478852af21357f038fac2d2e9f6.gif?raw=true)
-
+  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1e%2F90%2F3c%2F1e903c6231bb131c68aab829c45d52ce.jpg&lr=39&pos=6&rpt=simage&text=гифка%20девочка%20программист)"  />
+</div>
 
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Екатерина
 =================================================================================================================================
