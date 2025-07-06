@@ -1,8 +1,22 @@
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Екатерина
 =================================================================================================================================
 
 Я начинающий веб-разработчик
 ----------------------------
+
+###
+
+<div align="center">
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 Я учусь в Донском Государственном Техническом Университете на направлении "Прикладная информатика" по профилю "Разработка игр и прикладных программ". В процессе обучения меня заинтересовала frontend-разработка и я активно развиваюсь в этом направлении.
 
